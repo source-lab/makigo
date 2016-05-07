@@ -1,4 +1,4 @@
 # makigo
-Makigo XML Updater for RadioTray
+Makigo (XML Updater for RadioTray)
 
 Russian version
